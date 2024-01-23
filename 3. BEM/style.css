@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial;
+}
+
+.nav {  
+    background-color: blue;
+    padding: 0 100px;
+    color:aliceblue;
+    display: flex;
+    align-items: center;
+
+}
+
+.nav__link {
+    color: inherit;
+}
