@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+/* cajas en bloque -> display: block
+    cajas en linea -> display: inline */
+
+/* .title {
+    background-color: aliceblue;
+}
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.btn {
+    background-color: aquamarine;
+    color: black;
+    text-decoration: none;
+    padding: 15px 0px;
+    display: block;
+    width: 150px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 40px;
+    border-radius: 40px;
+} 
+
+.card {
+    background-color: aquamarine;
+    color:white;
+    width: 300px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px 25px;
+
+}
+
+.card__img {
+
+}
