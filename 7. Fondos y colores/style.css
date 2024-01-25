@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    padding: 60px;
+}
+
+.title {
+    font-size: 42px;
+    color: green;
+    background-color: yellow;
+    background-repeat: repeat;
+    background-image: linear-gradient( rgba(0, 0, 255, 0.493), rgba(255, 0, 0, 0.123)), url("https://www.w3schools.com/cssref/img_tree.gif");
+}
