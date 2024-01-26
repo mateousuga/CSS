@@ -1,0 +1,56 @@
+/* Fuentes */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wght@1,700&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: aquamarine;
+    font-family: 'Nunito', sans-serif;
+}
+
+.card {
+    background-color: white;
+    padding-bottom: 30px;
+    width: 400px;
+    margin: 30px;
+}
+
+.card__texts {
+    padding: 30px 20px;
+}
+
+.card__img {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card__date {
+    font-weight: 300px;
+}
+
+.card__title {
+    color: red;
+    font-weight: 900px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.card__parragraph {
+    font-weight: 500px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.card__cta {
+    display: inline-block;
+    background-color: royalblue;
+    color: white;
+    text-decoration: none;
+    padding: 12px 30px;
+    font-weight: 300px;
+}
