@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    padding: 40px;
+}
+
+/* unidades absolutas */
+/* px, pt, cm, mm, in, pc */
+.title {
+    font-size: 40in;
+    font-weight: bold;
+}
+
+/* unidades relativas */
+/* em, rem, vw, vh, vmin, vmax */
+
+/* unidades de viewport */
+/* vw, vh, vmin, vmax */
